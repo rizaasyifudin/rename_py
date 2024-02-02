@@ -23,4 +23,3 @@ Instruction
   - maka semua nama dari folder dan file akan berubah, dan akan ada tambahan 1 file dengan nama track.json
   - copy file track.json ke Komputer dan nantinya akan di upload ke alamat yang tertera di layar mesin pada mesin, http://{ip_mesin}/edit  (pastikan alat sudah terhubung ke wifi)
   - jika sudah selesai cabut flashdisk dari PC dan masukkan ke Mesin jadwal otomatis.
-](https://github.com/rizaasyifudin/rename_py/blob/main/langkah%201.PNG)
